@@ -1,2 +1,2 @@
-# compling_npl
+# compling_nlp
 АПМ12023
